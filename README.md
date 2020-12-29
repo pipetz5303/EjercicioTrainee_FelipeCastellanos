@@ -1,0 +1,2 @@
+# EjercicioTrainee
+ prueba de POO
